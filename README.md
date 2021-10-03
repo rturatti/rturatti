@@ -14,3 +14,36 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Bem Vindo!
+
+ 
+
+## Sou o Rodrigo Turatti!
+
+ 
+
+:computer: Sou apaixonado por tecnologia e estudando para DevOps e DevSecOps!
+
+:house_with_garden: Sou do Brazil.
+
+:books: Sempre em busca de novos aprendizados e desafios!
+
+:outbox_tray: Objetivo de 2021: Me recolocar no mercado como DevOps e DevSecOps !
+
+ 
+
+## About me
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](LINK_GIT)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)]( LINK_LINKEDIN)
+
+
+
+- Obrigado por sua visita.
+
+- Aproveite!! o/
+
+----------------------------------------------------------------------------------
+
+LINK_GIT = https://github.com/rturatti
