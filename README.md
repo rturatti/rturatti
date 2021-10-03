@@ -60,4 +60,4 @@ Here are some ideas to get you started:
 
 ----------------------------------------------------------------------------------
 
-LINK_GIT = https://github.com/rturatti
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](LINK_GIT) https://github.com/rturatti
