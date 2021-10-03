@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 :computer: Sou apaixonado por tecnologia e estudando para DevOps e DevSecOps!
 
-:house_with_garden: Sou do Brazil.
+:house_with_garden: São Paulo - Brazil.
 
 :books: Sempre em busca de novos aprendizados e desafios!
 
