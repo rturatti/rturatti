@@ -39,8 +39,8 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)]( LINK_LINKEDIN)
 
 ## Languages and Tools:
-[![Hellenmas GitHub stats](https://github-readme-stats.vercel.app/api?username=hellenmas)](https://github.com/hellenmas/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellenmas&layout=compact)](https://github.com/hellenmas/github-readme-stats)
+[![RTuratti GitHub stats](https://github-readme-stats.vercel.app/api?username=rturatti)](https://github.com/rturatti/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rturatti&layout=compact)](https://github.com/rturatti/github-readme-stats)
 
 
 <code><img height="20" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
