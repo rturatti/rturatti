@@ -6,8 +6,9 @@
 </h4>
  
  <br />
- - :briefcase: Atualmente estou trabalhando como Especialista em Telecomunicações (Asterisk). <br />
-- 👨‍🎓 Bacharel em Redes de Computadores. <br />
+- :briefcase: Atualmente estou trabalhando como DevOps/SRE. <br />
+- 👨‍🎓 Pós-Graduação em Cloud Computing - Faculdade Focus. <br />
+- 👨‍🎓 Bacharel em Redes de Computadores - Universidade Paulista <br />
 - :house_with_garden: São Paulo - Brazil. <br />
 - 🐧 Linux, Windows, IOS, Androd, Virtualização. <br />
 - :books: Estudando, Python, GIT, Terraform, Docker, Ansible.   <br />
