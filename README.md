@@ -2,7 +2,7 @@
  <br />		
  
   <h4 align="center"> 
-	Analista DevOps e Futuro DevSecOps 🚀 🚧 Em construção...  🚧
+	Analista DevOps/SRE e Futuro DevSecOps 🚀 🚧 Em construção...  🚧
 </h4>
  
  <br />
