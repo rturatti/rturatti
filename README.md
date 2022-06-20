@@ -3,7 +3,7 @@
 <h2 align="left">Hello World👋! My name is Rodrigo Turatti! 💻</h2>
 <h3 align="center">Analista DevOps/SRE e Futuro DevSecOps 🚀 🚧 Em construção...🚧<br><br></h3>
 <img align="right" height="180" src="https://www.opcito.com/hs-fs/hubfs/DevOps-CI-CD_03.gif?width=600&height=400&name=DevOps-CI-CD_03.gif"  />
-<p align="left">- 💼 Atualmente estou trabalhando como Analista DevOps/SRE.<br>- ⭐ Certificado: AZ-104, ITILv3<br>- 👨‍🎓 Pós-Graduação em Cloud Computing - Faculdade Focus - Cursando<br>- 👨‍🎓 Bacharel em Redes de Computadores - Universidade Paulista<br>- 🏡 Brazil.<br>- 🐧 Linux, Windows, Virtualização.<br>- 📚 Kubernetes, Python<br>- ⚡ Estou procurando novos projetos relacionados a DevOps, para adquirir mais conhecimento.<br>- ⚙️ Duvidas sobre DevOps, vamos conversar e tentar resolver?<br>- 🚩 Conhecimento em: VMware, Proxmox, Hyper-V , Samba, GCP, AWS, Azure, MYsql, e outras ferramentas, +8 anos de experiência na area de infra/suporte.</p>
+<p align="left">- 💼 Atualmente estou trabalhando como Analista DevOps/SRE.<br>- ⭐ Certificações: AZ-104, ITILv3<br>- 👨‍🎓 Pós-Graduação em Cloud Computing - Faculdade Focus - (Cursando :dizzy:) <br>- 👨‍🎓 Bacharel em Redes de Computadores - Universidade Paulista<br>- 🏡 São Paulo - Brazil.<br>- :cloud: Azure, AWS, GCP, DigitalOcean<br>- 🐧 Linux, Windows, Virtualização.<br>- 📚 Kubernetes, Python<br>- ⚡ Estou procurando novos projetos relacionados a DevOps, para adquirir mais conhecimento.<br>- ⚙️ Duvidas sobre DevOps, vamos conversar e tentar resolver?<br>- 🚩 Conhecimento em: VMware, Proxmox, Hyper-V , Samba, GCP, AWS, Azure, MYsql, e outras ferramentas, +8 anos de experiência na area de infra/suporte.</p>
 
 ###
 
