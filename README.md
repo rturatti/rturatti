@@ -6,7 +6,7 @@
 
 <p align="left">
 	💼 Atualmente estou trabalhando como Analista DevOps/SRE <br>
-	⭐ Certificações: AZ-104, ITILv3 <br>
+	:trophy: Certificações: AZ-104, ITILv3 <br>
 	👨‍🎓 Pós-Graduação em Cloud Computing - Faculdade Focus - (Cursando :dizzy:) <br>
 	👨‍🎓 Bacharel em Redes de Computadores - Universidade Paulista (Concluído :white_check_mark:) <br>
 	🏡 São Paulo - Brazil <br>
@@ -88,7 +88,7 @@
 
 ###
 
-### Badgr | Emblemas:	
+### :trophy: Badgr | Emblemas:	
 ###
 <h2 align="left">Iniciativa DevOps - KubeDev 💻</h2>
 <div align="left">
