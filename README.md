@@ -2,7 +2,7 @@
 
 <h2 align="left">Hello World👋! My name is Rodrigo Turatti! 💻</h2>
 <h3 align="center">Analista DevOps/SRE e Futuro DevSecOps 🚀 (🚧 Em construção... 🚧)<br><br></h3>
-<img align="right" height="180" src="https://www.opcito.com/hs-fs/hubfs/DevOps-CI-CD_03.gif?width=600&height=400&name=DevOps-CI-CD_03.gif"  />
+<img align="right" height="180" src="https://www.contrastsecurity.com/hs-fs/hubfs/images/DevOps%20Solutions/devops-old-way.gif?width=1322&name=devops-old-way.gif"  />
 
 <p align="left">
 	💼 Atualmente estou trabalhando como Analista DevOps/SRE <br>
