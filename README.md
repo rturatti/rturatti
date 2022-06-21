@@ -22,8 +22,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="30" width="40" alt="redhat logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" width="40" alt="debian logo"  />
 </div>
+
+
 <!-- <h3 align="left">Analista DevOps/SRE e Futuro DevSecOps 🚀 (🚧 Em construção... 🚧)<br><br></h3> -->
-<img align="right" height="350" src="https://www.contrastsecurity.com/hs-fs/hubfs/images/DevOps%20Solutions/devops-old-way.gif?width=1322&name=devops-old-way.gif"  />
+<img align="right" height="300" src="https://www.contrastsecurity.com/hs-fs/hubfs/images/DevOps%20Solutions/devops-old-way.gif?width=1322&name=devops-old-way.gif"  />
 <p align="left">
 	<br>
 	<br>
