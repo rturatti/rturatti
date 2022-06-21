@@ -1,3 +1,5 @@
+<div align="right">
+<img src="https://profile-counter.glitch.me/rturatti/count.svg?"  /></div>
 <br clear="both">
 
 <h2 align="center">Hello World👋! My name is Rodrigo Turatti! 💻</h2>
