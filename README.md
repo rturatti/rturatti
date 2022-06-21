@@ -1,36 +1,8 @@
 <br clear="both">
 
-<h2 align="left">Hello World👋! My name is Rodrigo Turatti! 💻</h2>
-<h3 align="center">Analista DevOps/SRE e Futuro DevSecOps 🚀 (🚧 Em construção... 🚧)<br><br></h3>
-<img align="right" height="180" src="https://www.contrastsecurity.com/hs-fs/hubfs/images/DevOps%20Solutions/devops-old-way.gif?width=1322&name=devops-old-way.gif"  />
-
-<p align="left">
-	💼 Atualmente estou trabalhando como Analista DevOps/SRE <br>
-	:trophy: Certificações: AZ-104, ITILv3 <br>
-	👨‍🎓 Pós-Graduação em Cloud Computing - Faculdade Focus - (Cursando :dizzy:) <br>
-	👨‍🎓 Bacharel em Redes de Computadores - Universidade Paulista (Concluído :white_check_mark:) <br>
-	🏡 São Paulo - Brazil <br>
-	:cloud: Azure, AWS, GCP, DigitalOcean <br>
-	⚙️ Docker, Kubernetes (K8s), Terraform, <br>
-	🐧 Linux, Windows, Virtualização <br>
-	📚 Kubernetes, Python <br>
-	⚡ Estou procurando novos projetos relacionados a DevOps, para adquirir mais conhecimento. <br>
-	:question: Duvidas sobre DevOps, vamos conversar e tentar resolver? <br>
-	🚩 Conhecimento em: VMware, Proxmox, Hyper-V , Samba, GCP, AWS, Azure, MYsql, e outras ferramentas, +8 anos de experiência na area de infra/suporte.
-</p>
-
-###
+<h2 align="center">Hello World👋! My name is Rodrigo Turatti! 💻</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=rturatti" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=rturatti" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" width="40" alt="azure logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" width="40" alt="amazonwebservices logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" width="40" alt="googlecloud logo"  />
@@ -50,10 +22,39 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="30" width="40" alt="redhat logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" width="40" alt="debian logo"  />
 </div>
+<!-- <h3 align="left">Analista DevOps/SRE e Futuro DevSecOps 🚀 (🚧 Em construção... 🚧)<br><br></h3> -->
+<img align="right" height="350" src="https://www.contrastsecurity.com/hs-fs/hubfs/images/DevOps%20Solutions/devops-old-way.gif?width=1322&name=devops-old-way.gif"  />
+<p align="left">
+	<br>
+	<br>
+	<br>
+	💼 Analista DevOps/SRE <br>
+	🏡 São Paulo - Brazil <br>
+	:trophy: Certificações: AZ-104, ITILv3 <br>
+	:cloud: Azure, AWS, GCP, DigitalOcean <br>
+	🐧 Linux, Windows, Virtualização <br>
+	📚 Github, Docker, Kubernetes (K8s), Terraform, Python <br>
+	👨‍🎓 Pós-Graduação em Cloud Computing - Faculdade Focus (Cursando :dizzy:) <br>
+	👨‍🎓 Bacharel em Redes de Computadores - Universidade Paulista (Concluído :white_check_mark:) <br>
+	⚡ Procurando novos projetos DevOps, para adquirir mais conhecimento. <br>
+	<br><br><br>
+</p>
 
-###
+<div align="center">
+	
+![Snake animation](https://github.com/phaelfp/phaelfp/blob/output/github-contribution-grid-snake.svg)
+</div>
 
-<div align="left">
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=rturatti" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=rturatti" height="150" alt="languages graph"  />
+</div>
+
+
+<br clear="both">
+<div align="center">
   <a href="https://www.instagram.com/rodrigoturatti_/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
   </a>
@@ -71,56 +72,39 @@
   </a>
 </div>
 
-###
-
-<div  ![Snake animation](https://github.com/phaelfp/phaelfp/blob/output/github-contribution-grid-snake.svg)
-</div>
-
 <br clear="both">
 
- ![Snake animation](https://github.com/phaelfp/phaelfp/blob/output/github-contribution-grid-snake.svg)
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/rturatti/count.svg?"  />
-</div>
-
-###
-
-### :trophy: Badgr | Emblemas:	
-###
-<h2 align="left">Iniciativa DevOps - KubeDev 💻</h2>
+<h1 align="left"> :trophy: Badgr | Emblemas:</h1>	
+<h2 align="left">Iniciativa DevOps - KubeDev - Junho/2022</h2>
 <div align="left">
-<a href="https://api.badgr.io/public/assertions/LR40ZvESROSx60PW1OVHZw?identity__email=rodrigotup%40gmail.com"> 
-	<img width="120px" height="120px" src="https://api.badgr.io/public/assertions/LR40ZvESROSx60PW1OVHZw/image" />
-  </a>
-	
-<a href="https://api.badgr.io/public/assertions/uqHZV4ZZQd2Mufp4UzoLVg?identity__email=rodrigotup%40gmail.com"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/uqHZV4ZZQd2Mufp4UzoLVg/image">
-	</a>
-	
-<a href="https://api.badgr.io/public/assertions/lEOxV37uQWaYFMIH6Ird3Q?identity__email=rodrigotup%40gmail.com"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/lEOxV37uQWaYFMIH6Ird3Q/image">
-	</a>
-	
-<a href="https://api.badgr.io/public/assertions/bTsq0Wi0Samht4G4pAgTBw?identity__email=rodrigotup%40gmail.com"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/bTsq0Wi0Samht4G4pAgTBw/image">
-	</a>	
-	
-<a href="https://api.badgr.io/public/assertions/oJloc5Y5TUSiday4WYduxw"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/oJloc5Y5TUSiday4WYduxw/image">
-	</a>
+<a href="https://api.badgr.io/public/assertions/oJloc5Y5TUSiday4WYduxw" target="_blank">
+	<img width="120px" height="120px" src="https://api.badgr.io/public/assertions/oJloc5Y5TUSiday4WYduxw/image"></a>
+
+<a href="https://api.badgr.io/public/assertions/bTsq0Wi0Samht4G4pAgTBw?identity__email=rodrigotup%40gmail.com" target="_blank">
+	<img width="120px" height="120px" src="https://api.badgr.io/public/assertions/bTsq0Wi0Samht4G4pAgTBw/image"></a>
+
+<a href="https://api.badgr.io/public/assertions/lEOxV37uQWaYFMIH6Ird3Q?identity__email=rodrigotup%40gmail.com" target="_blank">
+	<img width="120px" height="120px" src="https://api.badgr.io/public/assertions/lEOxV37uQWaYFMIH6Ird3Q/image"></a>
+
+<a href="https://api.badgr.io/public/assertions/uqHZV4ZZQd2Mufp4UzoLVg?identity__email=rodrigotup%40gmail.com" target="_blank">
+	<img width="120px" height="120px" src="https://api.badgr.io/public/assertions/uqHZV4ZZQd2Mufp4UzoLVg/image"></a>
+
+<a href="https://api.badgr.io/public/assertions/LR40ZvESROSx60PW1OVHZw?identity__email=rodrigotup%40gmail.com" target="_blank"> 
+	<img width="120px" height="120px" src="https://api.badgr.io/public/assertions/LR40ZvESROSx60PW1OVHZw/image" /></a> 
 </div>
 
 <div align="left">
-	<h2 align="left">Iniciativa kubernetes - KubeDev 💻</h2>
-<a href="https://api.badgr.io/public/assertions/HBVOze11SL2iGQbRo9QNrw?identity__email=rodrigotup%40gmail.com"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/HBVOze11SL2iGQbRo9QNrw/image">
-	</a>
+<h2 align="left">Iniciativa kubernetes - KubeDev - Outubro/2022</h2>
+<a href="https://api.badgr.io/public/assertions/HBVOze11SL2iGQbRo9QNrw?identity__email=rodrigotup%40gmail.com" target="_blank">
+	<img width="120px" height="120px" src="https://api.badgr.io/public/assertions/HBVOze11SL2iGQbRo9QNrw/image"></a>
  
-<a href="https://api.badgr.io/public/assertions/VDPV_ULlRcOYPC3qfDQ8gg?identity__email=rodrigotup%40gmail.com"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/VDPV_ULlRcOYPC3qfDQ8gg/image">
-	</a>
+<a href="https://api.badgr.io/public/assertions/VDPV_ULlRcOYPC3qfDQ8gg?identity__email=rodrigotup%40gmail.com" target="_blank">
+	<img width="120px" height="120px" src="https://api.badgr.io/public/assertions/VDPV_ULlRcOYPC3qfDQ8gg/image"></a>
 	
-	
-<a href="https://api.badgr.io/public/assertions/CCbGw7mWT1uD1AFSgYQoOg?identity__email=rodrigotup%40gmail.com"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/CCbGw7mWT1uD1AFSgYQoOg/image">
-	</a>
+<a href="https://api.badgr.io/public/assertions/CCbGw7mWT1uD1AFSgYQoOg?identity__email=rodrigotup%40gmail.com" target="_blank">
+	<img width="120px" height="120px" src="https://api.badgr.io/public/assertions/CCbGw7mWT1uD1AFSgYQoOg/image"></a>
 </div> 
-	
-- Obrigado por sua visita.
-----------------------------------------------------------------------------------
+<br>
+<br>
+
+Obrigado por sua visita! 🚀
