@@ -32,7 +32,7 @@
 	<br>
 	<br>
 	<br>
-	💼 Analista DevOps/SRE <br>
+	💼 DevOps/SRE <br>
 	🏡 São Paulo - Brazil <br>
 	:trophy: Certificações: AZ-104, ITILv3 <br>
 	:cloud: Azure, AWS, GCP, DigitalOcean <br>
