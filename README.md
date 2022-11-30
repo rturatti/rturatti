@@ -34,6 +34,7 @@
 	<br>
 	💼 DevOps/SRE <br>
 	🏡 São Paulo - Brazil <br>
+	🏡 Setubal - Portugal <br>
 	:trophy: Certificações: AZ-104, ITILv3 <br>
 	:cloud: Azure, AWS, GCP, DigitalOcean <br>
 	🐧 Linux, Windows, Virtualização <br>
