@@ -40,7 +40,6 @@
 	📚 Github, Docker, Kubernetes (K8s), Terraform, Python <br>
 	👨‍🎓 Pós-Graduação em Cloud Computing - Faculdade Focus :dizzy: <br>
 	👨‍🎓 Bacharel em Redes de Computadores - Universidade Paulista :white_check_mark: <br>
-	⚡ Procurando novos projetos DevOps, para adquirir mais conhecimento. <br>
 	<br><br><br>
 </p>
 
