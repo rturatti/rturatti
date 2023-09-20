@@ -34,7 +34,7 @@
 	<br>
 	💼 DevOps/SRE <br>
 	🏡 São Paulo - Brazil <br>
-	:trophy: Certificações: AZ-104, ITILv3 <br>
+	:trophy: Certificações: AZ-900, AZ-104, AZ-400, ITILv3 <br>
 	:cloud: Azure, AWS, GCP, DigitalOcean <br>
 	🐧 Linux, Windows, Virtualização <br>
 	📚 Github, Docker, Kubernetes (K8s), Terraform, Python <br>
