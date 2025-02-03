@@ -37,7 +37,7 @@
 	:cloud: Azure, AWS, GCP, OCI, DigitalOcean <br>
 	🐧 Linux, Windows, Virtualização <br>
 	📚 Github, Docker, Kubernetes (K8s), Terraform, Python <br>
-	👨‍🎓 Pós-Graduação em Cloud Computing - Faculdade Focus :dizzy: <br>
+	👨‍🎓 Pós-Graduação em Cloud Computing - Faculdade Focus :white_check_mark: <br>
 	👨‍🎓 Bacharel em Redes de Computadores - Universidade Paulista :white_check_mark: <br>
 	<br>
 	<br>
