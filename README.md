@@ -32,17 +32,18 @@
 	<br>
 	<br>
 	<br>
-	💼 DevOps/SRE <br>
+	💼 DevOps/SRE / DevSecOps <br>
 	🏡 São Paulo - Brazil <br>
-	:trophy: Certificações: AZ-900, AZ-104, AZ-400, ITILv3 <br>
-	:cloud: Azure, AWS, GCP, DigitalOcean <br>
+	:trophy: Certificações: AZ-900, AZ-104, AZ-305, AZ-400, ITILv3 <br>
+	:cloud: Azure, AWS, GCP, OCI, DigitalOcean <br>
 	🐧 Linux, Windows, Virtualização <br>
 	📚 Github, Docker, Kubernetes (K8s), Terraform, Python <br>
 	👨‍🎓 Pós-Graduação em Cloud Computing - Faculdade Focus :dizzy: <br>
 	👨‍🎓 Bacharel em Redes de Computadores - Universidade Paulista :white_check_mark: <br>
-	<br><br><br>
+	<br>
+	<br>
+	<br>
 </p>
-
 <div align="center">
 	
 ![Snake animation](https://github.com/phaelfp/phaelfp/blob/output/github-contribution-grid-snake.svg)
