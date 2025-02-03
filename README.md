@@ -77,38 +77,6 @@
 </div>
 
 <br clear="both">
-
-<h1 align="left"> :trophy: Badgr | Emblemas:</h1>	
-<h2 align="left">Iniciativa DevOps - KubeDev - Junho/2022</h2>
-<div align="left">
-<a href="https://api.badgr.io/public/assertions/oJloc5Y5TUSiday4WYduxw" target="_blank">
-	<img width="120px" height="120px" src="https://api.badgr.io/public/assertions/oJloc5Y5TUSiday4WYduxw/image"></a>
-
-<a href="https://api.badgr.io/public/assertions/bTsq0Wi0Samht4G4pAgTBw?identity__email=rodrigotup%40gmail.com" target="_blank">
-	<img width="120px" height="120px" src="https://api.badgr.io/public/assertions/bTsq0Wi0Samht4G4pAgTBw/image"></a>
-
-<a href="https://api.badgr.io/public/assertions/lEOxV37uQWaYFMIH6Ird3Q?identity__email=rodrigotup%40gmail.com" target="_blank">
-	<img width="120px" height="120px" src="https://api.badgr.io/public/assertions/lEOxV37uQWaYFMIH6Ird3Q/image"></a>
-
-<a href="https://api.badgr.io/public/assertions/uqHZV4ZZQd2Mufp4UzoLVg?identity__email=rodrigotup%40gmail.com" target="_blank">
-	<img width="120px" height="120px" src="https://api.badgr.io/public/assertions/uqHZV4ZZQd2Mufp4UzoLVg/image"></a>
-
-<a href="https://api.badgr.io/public/assertions/LR40ZvESROSx60PW1OVHZw?identity__email=rodrigotup%40gmail.com" target="_blank"> 
-	<img width="120px" height="120px" src="https://api.badgr.io/public/assertions/LR40ZvESROSx60PW1OVHZw/image" /></a> 
-</div>
-
-<div align="left">
-<h2 align="left">Iniciativa kubernetes - KubeDev - Outubro/2022</h2>
-<a href="https://api.badgr.io/public/assertions/HBVOze11SL2iGQbRo9QNrw?identity__email=rodrigotup%40gmail.com" target="_blank">
-	<img width="120px" height="120px" src="https://api.badgr.io/public/assertions/HBVOze11SL2iGQbRo9QNrw/image"></a>
- 
-<a href="https://api.badgr.io/public/assertions/VDPV_ULlRcOYPC3qfDQ8gg?identity__email=rodrigotup%40gmail.com" target="_blank">
-	<img width="120px" height="120px" src="https://api.badgr.io/public/assertions/VDPV_ULlRcOYPC3qfDQ8gg/image"></a>
-	
-<a href="https://api.badgr.io/public/assertions/CCbGw7mWT1uD1AFSgYQoOg?identity__email=rodrigotup%40gmail.com" target="_blank">
-	<img width="120px" height="120px" src="https://api.badgr.io/public/assertions/CCbGw7mWT1uD1AFSgYQoOg/image"></a>
-</div> 
 <br>
 <br>
-
 Obrigado por sua visita! 🚀
